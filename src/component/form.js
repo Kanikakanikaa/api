@@ -3,7 +3,7 @@ import { Button, Form } from 'react-bootstrap';
 import axios from 'axios';
 
 export default function Formm() {
-
+// basic 
   const[post,setPost]=useState({
     email:"",
     password:""
